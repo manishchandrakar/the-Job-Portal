@@ -1,0 +1,36 @@
+.job-details-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 24px;
+  }
+  
+  .job-details-title {
+    font-weight: bold;
+    margin-bottom: 16px;
+  }
+  
+  .job-details-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 16px;
+  }
+  
+  .job-details-subtitle {
+    font-weight: bold;
+    margin-bottom: 8px;
+  }
+  
+  .job-details-info {
+    margin-bottom: 8px;
+  }
+  
+  .job-details-description {
+    margin-bottom: 16px;
+  }
+  
+  .job-details-button {
+    text-transform: none;
+  }
+  

@@ -1,0 +1,26 @@
+.register-page-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 24px;
+  }
+  
+  .register-page-title {
+    font-weight: bold;
+    margin-bottom: 16px;
+  }
+  
+  .register-form {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+  }
+  
+  .register-input {
+    margin-bottom: 16px;
+  }
+  
+  .register-button {
+    text-transform: none;
+  }
+  
